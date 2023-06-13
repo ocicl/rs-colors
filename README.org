@@ -1,0 +1,10 @@
+* rs-colors
+
+A color data type for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ralph-schleicher/rs-colors.git   |
+| commit  | 0604867  |
+| systems | rs-colors |
+|---------+-------------------------------------------|
+
