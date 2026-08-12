@@ -8,4 +8,4 @@ A color data type for Common Lisp.
 | systems | rs-colors |
 |---------+-------------------------------------------|
 
- 
+  
